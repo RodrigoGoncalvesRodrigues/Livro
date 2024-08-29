@@ -1,0 +1,15 @@
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\bin\Debug\net8.0\TDEAula5.exe
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\bin\Debug\net8.0\TDEAula5.deps.json
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\bin\Debug\net8.0\TDEAula5.runtimeconfig.json
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\bin\Debug\net8.0\TDEAula5.dll
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\bin\Debug\net8.0\TDEAula5.pdb
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.sourcelink.json
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.dll
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\refint\TDEAula5.dll
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.pdb
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\TDEAula5.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Documentos\LabProg\TDEAula5\obj\Debug\net8.0\ref\TDEAula5.dll
